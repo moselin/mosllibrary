@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialButton">
+        <attr name="cornerRadius" format="integer"/>
+        <attr name="shadowHeight" format="integer"/>
+        <attr name="strokeLine" format="integer"/>
+        <attr name="strokeColor" format="color"/>
+    </declare-styleable>
+</resources>
